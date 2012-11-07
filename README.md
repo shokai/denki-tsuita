@@ -7,6 +7,7 @@ http://twitter.com/shokai_log を使って、部屋の電気がついた/消え�
     % bundle install
     % ruby denki-tsuita.rb
 
+<img src="http://gyazo.com/49feca27946a40a91ba5901529b74448.png">
 
 ## Requirements
 
